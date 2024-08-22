@@ -9,6 +9,15 @@
   --color-red: #fa5252;
   --color-red-dark: #e03131;
 }
+::-webkit-scrollbar {
+  display: none;
+}
+::-moz-scrollbar {
+  display: none;
+}
+::-o-scrollbar {
+  display: none;
+}
 
 * {
   margin: 0;
