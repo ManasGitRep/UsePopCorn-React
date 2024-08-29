@@ -120,7 +120,6 @@ function Box({ children }) {
         {isOpen2 ? "–" : "+"}
       </button>
       {isOpen2 && (
-        
       )}
     </div>
   );
